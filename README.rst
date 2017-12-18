@@ -57,7 +57,7 @@ If you are using Django 1.6, you should use South 1.0 in order to benefit from t
 
   python manage.py migrate djangocms_htmlsitemap
 
-*Congrats! You’re in.*
+**
 
 Authors
 -------
